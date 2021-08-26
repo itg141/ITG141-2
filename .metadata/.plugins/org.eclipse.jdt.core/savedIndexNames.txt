@@ -1,8 +1,0 @@
-INDEX VERSION 1.131+/home/miracle/eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core
-3532120138.index
-305004856.index
-3118837992.index
-2710549243.index
-1444412619.index
-2127109920.index
-4136193009.index
