@@ -1,0 +1,19 @@
+
+
+package variable;
+
+public class vari {
+    int num=10000;
+	static String clgname="LBRCE";
+    static String Branch="MCA";
+	
+	public static void main(String[] args){
+		vari v1=new vari();
+		
+		
+		int id=1;
+		System.out.println(id+" "+clgname+" "+Branch+" "+num);
+		
+
+}
+}
