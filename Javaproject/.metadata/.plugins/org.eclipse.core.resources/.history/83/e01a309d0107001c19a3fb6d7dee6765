@@ -1,0 +1,29 @@
+import java.util.Scanner;
+public class calculator {
+	public static void main(String args[]) {
+		Scanner sc=new Scanner(System.in);
+		 System.out.println("Enter two numbers :");
+		 int a= sc.nextInt();
+		 int b= sc.nextInt();
+		 System.out.println("Enter which operation u need : Addition,Division,Subraction,MULTIPLICATION");
+		 int c=sc.nextInt();
+		 switch(c)
+		 {
+		     " case1:System.out.println("Addition"+(a+b));
+		 		 break;
+		 		case2:System.out.println("Subraction"+(a-b));
+		 		 break;
+		 		case3:System.out.println("Division"+(a/b));
+		 		 break;
+		 		case4:System.out.println("Multiplication"+(a*b));
+		 		 break;
+		 default:
+		 {
+			 System.out.println("Wrong Choice Entered");
+		 		 
+		 }
+		 
+		 
+	}
+}
+}

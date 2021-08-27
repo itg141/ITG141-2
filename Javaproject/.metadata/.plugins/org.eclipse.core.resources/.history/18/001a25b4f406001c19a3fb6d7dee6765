@@ -1,0 +1,17 @@
+import java.util.Scanner;
+public class calculator {
+	public static void main(String args[]) {
+		Scanner sc=new Scanner(System.in);
+		// int a,b;
+		 //nt c;
+		 System.out.println("Enter two numbers :");
+		 int a= sc.nextInt();
+		 int b= sc.nextInt();
+		 System.out.println("Enter which operation u need :");
+		 System.out.println("Addition");
+		 System.out.println("Division");
+		 System.out.println("");
+		 
+	 }
+
+}

@@ -1,0 +1,10 @@
+import java.util.Scanner;
+public class calculator {
+	public static void main(String args[]) {
+		Scannersc=new Scanner(ystem.in)
+		 int a,b;
+		 int c;
+		 System.out.println();
+	 }
+
+}
