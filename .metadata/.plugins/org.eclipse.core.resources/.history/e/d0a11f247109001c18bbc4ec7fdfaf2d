@@ -1,0 +1,17 @@
+package programs;
+import java.util.Scanner;
+public class Ctask31 {
+	public static void main(String args[]) {
+		int num,i;
+		Scanner scan=new Scanner(System.in);
+		System.out.println("Enter a number");
+		scan.nextInt();
+		scan.close();
+		do {
+			System.out.printf(num+"*"+i+"="+(num*i));
+			i++;
+		}while(i<=10);
+		
+	}
+
+}

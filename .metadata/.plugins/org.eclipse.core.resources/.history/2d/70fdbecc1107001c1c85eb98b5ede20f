@@ -1,0 +1,40 @@
+package programs;
+	import java.util.Scanner;
+	public class Ctask13 {
+		public static void main(String args[]) {
+			int input;
+			Scanner scan=new Scanner(System.in);
+			System.out.println("Enter your choice: 1.Jan 2.feb 3.Mar 4.apr 5.may  6.Jun 7.Jul 8.Aug 9.sep 10.oct 11.nov 12.Dec");
+			input=scan.nextInt();
+			scan.close();
+			switch(input) 
+			{
+			case 1: System.out.println();
+			break;
+			case 2: System.out.println();
+			break;
+			case 3: System.out.println();
+			break;
+			case 4: System.out.println();
+			break;
+			case 5: System.out.println();
+			break;
+			case 6: System.out.println();
+			break;
+			case 7: System.out.println();
+			break;
+			case 8: System.out.println();
+			break;
+			case 9: System.out.println();
+			break;
+			case 10: System.out.println();
+			break;
+			case 11: System.out.println();
+			break;
+			case 12: System.out.println();
+			break;
+			default:
+				System.out.println("Entered input is invalid");
+		}
+	}
+	}

@@ -1,0 +1,11 @@
+INDEX VERSION 1.131+/home/miracle/eclipse-workspace/task/src/task/.metadata/.metadata/.plugins/org.eclipse.jdt.core
+2710549243.index
+1175494123.index
+3532120138.index
+2214065703.index
+3118837992.index
+1924484980.index
+305004856.index
+1444412619.index
+2127109920.index
+791340016.index

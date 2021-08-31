@@ -1,0 +1,9 @@
+package programs;
+import java.util.Scanner;
+
+public class Ctask30 {
+	public static void main (System.in) {
+		Scanner scan=new Scanner()
+	}
+
+}

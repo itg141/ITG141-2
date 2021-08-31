@@ -1,0 +1,22 @@
+package programs;
+
+public class Ctask19 {
+	public static void main(String args[]) {
+		int i,j;
+		for (i=1;i<=10;i++) 
+		{
+			for (j=2;j<5;j++)
+			{
+				if(i%j==0)
+				{
+					
+				}
+				else
+				{
+					System.out.println(i);
+				}
+			
+			}
+		}
+	}
+}

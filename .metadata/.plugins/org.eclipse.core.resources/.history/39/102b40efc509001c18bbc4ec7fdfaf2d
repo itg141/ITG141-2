@@ -1,0 +1,33 @@
+package Strings;
+import java.util.Scanner;
+public class Task1 {
+	public static void main (String args[]) {
+		int count=0;
+		Scanner scan=new Scanner(System.in);
+		System.out.println("enter string1");
+		String string1=scan.nextLine();
+		System.out.println("enter string2");
+		String string2=scan.nextLine();
+		scan.close();
+		if (string1.length() != string2.length())
+		{
+			System.out.print("not equal");
+		}
+		if(string1==null || string2==null) {
+			System.out.println("not equal");
+			
+		}
+		for(int i=0;i<string1.length();i++) {
+			if(string1.charAt(i)!=string2.charAt(i))
+			{
+				System.out.println("not equal");
+			break;
+			}
+			else {
+				System.out.println("Equal");
+			}
+		}
+		
+	}
+
+}

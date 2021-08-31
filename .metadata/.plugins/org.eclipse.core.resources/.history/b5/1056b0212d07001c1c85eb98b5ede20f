@@ -1,0 +1,22 @@
+package programs;
+
+import java.util.Scanner;
+
+public class Ctask23 {
+	public static void main(String args[]) {
+		int x,n,i,fact=1;
+		float sum=1;
+		Scanner scan=new Scanner(System.in);
+		System.out.println("Enter a number");
+		x=scan.nextInt();
+		n=scan.nextInt();
+		scan.close();
+		for (i=1;i<=n;i++)
+		{
+			fact=fact*i;
+			sum=sum+(float)(x)/(float)(fact);
+			
+		}
+	System.out.println(sum);
+	}
+}
